@@ -1,0 +1,1 @@
+export const canary = (w: string): string => `hello ${w}!`;
