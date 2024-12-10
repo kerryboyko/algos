@@ -1,4 +1,4 @@
-import Trie from "./index";
+import Trie from ".";
 
 describe("Trie", () => {
     it("works with one word", () => {
